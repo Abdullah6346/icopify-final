@@ -1,0 +1,33 @@
+.table-responsive {
+  overflow-x: auto;
+}
+
+.card {
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+}
+
+.badge-soft-primary {
+  background-color: #e7f0fd;
+}
+
+.btn-group .btn {
+  margin-bottom: 5px;
+}
+
+.fas {
+  margin-right: 5px;
+}
+
+.text-facebook {
+  color: #1877f2;
+}
+
+.text-facebook:hover {
+  text-decoration: underline;
+}
+
+.sort {
+  font-size: 14px;
+  color: #dee2e6;
+}

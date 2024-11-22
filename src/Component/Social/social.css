@@ -1,0 +1,15 @@
+.title {
+    color: #3c5a99;
+  }
+  
+  .card-image {
+    height: 50%;
+    width: 100%;
+    object-fit: cover;
+    background-color: #e6effc;
+  }
+  
+  .title-text {
+    color: #3c5a99;
+  }
+  
